@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cbv:home|Door43 (cbv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cbv|d43-cbv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cbv/archive/master.zip|d43-cbv.zip]]
+
+**Recent Changes**
+{{changes>ns = cbv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cbv|Ethnologue data]]
+
